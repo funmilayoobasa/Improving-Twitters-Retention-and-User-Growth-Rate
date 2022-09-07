@@ -13,4 +13,4 @@ This github repo contains the code I used to perform the hypotheses tests for my
 
 ## Relevant Links
 - Case Study: https://funmilayoobasa.com/2022/03/07/improving-twitters-retention-user-growth-rate/
-- Explanation of Insights (Testing my Twitter Biases): https://funmilayoobasa.com/2022/09/07/testing-my-twitter-biases/
+- Explanation of Insights (Testing my Twitter Bias): https://funmilayoobasa.com/2022/09/07/testing-my-twitter-bias/
